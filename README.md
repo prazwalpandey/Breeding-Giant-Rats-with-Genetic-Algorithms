@@ -5,17 +5,15 @@ Genetic Algorithms (GAs) are optimization and search techniques inspired by the 
 Here I used genetic algorithm to breed a race of super rats that can terrorize the world😂.
 I mean, ofcourse a 50kg giant rat would look scary, wouldn't it?
 
-## About the Project
-
 ## Plots
 
 ### Average weight across Generations
 
-![Avg. Weight Across Each Generation](plots/1.png)
+![Avg. Weight Across Each Generation](plots\1.png)
 
 ### Years vs Mutation Probability
 
-![Years vs Mutation Probability and Years vs Number Rats](plots/2.png)
+![Years vs Mutation Probability and Years vs Number Rats](plots\2.png)
 
 ### Credit:
 
