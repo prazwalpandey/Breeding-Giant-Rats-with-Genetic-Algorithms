@@ -9,11 +9,11 @@ I mean, ofcourse a 50kg giant rat would look scary, wouldn't it?
 
 ### Average weight across Generations
 
-![Avg. Weight Across Each Generation](plots\1.png)
+![Avg. Weight Across Each Generation](plots/1.png)
 
 ### Years vs Mutation Probability
 
-![Years vs Mutation Probability and Years vs Number Rats](plots\2.png)
+![Years vs Mutation Probability and Years vs Number Rats](plots/2.png)
 
 ### Credit:
 
